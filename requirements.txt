@@ -1,4 +1,2 @@
 # requirements.txt
-pip install --upgrade --force-reinstall pandas
-pip install --upgrade --force-reinstall pyarrow
-pip install --upgrade --force-reinstall snowflake-connector-python
+snowflake-connector-python
